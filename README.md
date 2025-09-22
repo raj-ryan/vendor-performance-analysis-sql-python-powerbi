@@ -154,7 +154,7 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
+**Raj Aryan**  
 Data Analyst  
 📧 Email: rajryanwork@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/raj-aryan-86005226b/)  
